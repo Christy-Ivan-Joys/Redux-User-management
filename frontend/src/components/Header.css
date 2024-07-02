@@ -1,0 +1,32 @@
+.second{
+
+justify-content: flex-end;
+margin: 100px;
+display: flex;
+gap: 20px;
+text-decoration: none;
+font-weight: 700;
+color:aliceblue;
+padding-left: 1250px;
+
+}
+.nav-item .button{  
+    
+    text-decoration: none;
+    color: rgb(42, 8, 134);
+    padding:2px ;
+    width: 70px;
+    background-color: rgb(113, 199, 199);
+    font-weight: 600;
+   
+}
+.home{
+    margin: 20px;
+    text-decoration: none;
+    margin-left: 30px;
+    font-weight: 700;
+}
+.navbar{
+    height:70px;
+}
+
